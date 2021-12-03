@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Yerkal</h1>
-- 🔭 Computer Science, TY BTech student studying at **College of Engineering Pune (CoEP)**<br/>
+- 🔭 Computer Science, TY BTech student studying at College of Engineering Pune (CoEP)<br/>
 - 📫 Reach me at **yerkal.suraj@gmail.com**
 <br/><br/>
 
