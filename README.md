@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Yerkal</h1>
 - 🔭 Computer Science, TY BTech student studying at College of Engineering Pune (CoEP)<br/>
-- 📫 Reach me at **yerkal.suraj@gmail.com**
+- 📫 Reach me at yerkal.suraj@gmail.com
 <br/><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj2439&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
