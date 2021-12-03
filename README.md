@@ -1,5 +1,12 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj2439)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Hi 👋, I'm Suraj Yerkal</h1>
+- 🔭 Computer Science, TY BTech student studying at **College of Engineering Pune (CoEP)**<br/>
+- 📫 Reach me at **yerkal.suraj@gmail.com**
+<br/><br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suraj2439&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj2439&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **suraj2439/suraj2439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
