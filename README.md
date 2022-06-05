@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://leetcode.com/suraj2439/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suraj2439" height="30" width="40" /></a>
+ <a href="https://auth.geeksforgeeks.org/user/yerkalsuraj/practice/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="suraj2439" height="55" width="40" /></a>
 <a href="https://www.linkedin.com/in/suraj-yerkal-b64251195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj2439" height="30" width="40" />
 </p>
 
